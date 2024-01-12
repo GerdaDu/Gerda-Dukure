@@ -52,6 +52,6 @@ elif apaksklajs == 'ne':                                                     #Ja
 
     print('-----Linolejs tiek iegādāts no E-GRIDAS-----')
     print('---------Linoleja ražotājs: TARKETT---------')
-
+#dddddddddddddddddddddddddddddddvfbfgvfbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbh
 
 
