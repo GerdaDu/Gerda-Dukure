@@ -7,3 +7,4 @@ for i in range(studentu_skaits):
     studenta_vards = list
     studenta_rezultats = print(int(input('Ievadiet studenta eksāmena rezultātu: ')))
 
+#jaa
